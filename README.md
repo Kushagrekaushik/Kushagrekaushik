@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kushagre Kaushik</h1>
 <h3 align="center">Pre Final year student at Thapar Institute of Engineering and Technology pursuing Bachelors of Technology in the field of Computer Engineering. Learning new skills and aspiring software developer.</h3>
-![image](https://github.com/Kushagrekaushik/Kushagrekaushik/assets/100528019/20c03b34-aa95-4cfe-8bfa-9b965a5f3549)
+https://github.com/Kushagrekaushik/Kushagrekaushik/assets/100528019/20c03b34-aa95-4cfe-8bfa-9b965a5f3549
 
 - 🌱 I’m currently learning **Node.js , Express.js**
 
